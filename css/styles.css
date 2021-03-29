@@ -27,6 +27,19 @@
     font-weight: 400;
 }
 
+.tituloop2{                                
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    color: var(--oscuro);
+    font-size: 4rem;
+    text-align: center;
+    font-weight: 700;
+    width: min(60rem, 100%);
+    margin: 0 auto;
+    border: none;
+    border-radius: 0.5rem;
+    padding: 0.1rem;
+}
+
 .fondo {
     background-image: url(../img/tuercas.PNG);
     height: 32rem;
@@ -38,11 +51,11 @@
 }
 
 .construccion div {
-    background-image: url(../img/construccion.jpg);
+    background-image: url(../img/hp.png);
     background-repeat: no-repeat;
-    width: min(1rem, 100%);
+    width: min(46rem, 100%);
     margin: 0 auto;
-    padding: 19rem;
+    padding-top: 112rem;
     border-radius: 1rem;
 }
 
@@ -73,7 +86,20 @@
     color: var(--blanco);     
     padding: 0rem;
     font-size: 2rem;
+}
 
+.menuop2{
+
+}
+
+.menuop2 a{
+    text-decoration: none;
+    color: var(--oscuro);
+    text-transform: uppercase;
+}
+
+.body{
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
 
 }
 
